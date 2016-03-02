@@ -1,2 +1,2 @@
 # PayPalDemo
-Apple Pay By Sanbao
+Apple Pay Demo By Sanbao
